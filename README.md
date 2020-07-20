@@ -1,6 +1,3 @@
-<!--
-**gxvr/gxvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Geofrey. 👋 💻
 
 [comment]: <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="">
