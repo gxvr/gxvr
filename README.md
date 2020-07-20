@@ -2,7 +2,7 @@
 
 [comment]: <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="">
 
-Progressive frontend developer ⚡ specializing in building (and occasionally designing) websites and applications. Currently based in Dar es salaam, Tanzania.
+Progressive frontend developer ⚡ specializing in building (and occasionally designing) websites and applications.
 
 As a software engineer, I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences. 
 
